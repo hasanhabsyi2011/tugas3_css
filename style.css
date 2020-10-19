@@ -1,0 +1,34 @@
+p{
+	background-color: gray;
+	text-align: left;
+  border: 1px solid gray;
+	border-color: black;
+
+}
+
+
+#par_satu{
+	background-color: orange;
+}
+
+
+#par_dua{
+	background-color: blue;
+  color: white;
+}
+
+
+#par_tiga{
+	font-family: monospace;
+	font-size: 25px;
+  background-color: white;
+	border-color: gray;
+
+}
+
+
+#par_empat{
+	border-color: black;
+	font-weight: bolder;
+	font-size: 25px
+}
